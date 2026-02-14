@@ -1,4 +1,4 @@
-import { Layer } from "@toptensoftware/layers.core";
+import { Layer } from "@toptensoftware/layers-core";
 import { key, keyEncoder } from "./keyboard.js";
 let layer = new Layer();
 

@@ -1,5 +1,5 @@
 {
-  "name": "@toptensoftware/layers.keyboard",
+  "name": "@toptensoftware/layers-keyboard",
   "description": "Windows keyboard support for @toptensoftware/layers-core",
   "version": "1.0.0",
   "main": "index.js",
@@ -8,13 +8,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/toptensoftware/layers.core"
+    "url": "https://github.com/toptensoftware/layers-core"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@toptensoftware/layers.core": "github:toptensoftware/layers-core",
+    "@toptensoftware/layers-core": "github:toptensoftware/layers-core",
     "@toptensoftware/node-winkeyhook": "github:toptensoftware/node-winkeyhook"
   }
 }
